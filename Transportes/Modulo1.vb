@@ -11,6 +11,8 @@ Module Modulo1
     Public DatosConsulta As DataTable 'Guarda los datos de una consulta.-
     Public IDS(1) As Integer 'Guarda Claves para consultas de Saldos.-
     Public KMConsulta(2) As Integer 'Guarda KM anteriores.-
+    Public KMConsulta1(2) As Integer 'Guarda KM anteriores.-
+
 
 #Region "BASE DE DATOS"
 
