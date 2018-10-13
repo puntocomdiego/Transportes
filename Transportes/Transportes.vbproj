@@ -168,6 +168,12 @@
     <Compile Include="Form_OrdenCargaDescarga.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Form_Prueba.Designer.vb">
+      <DependentUpon>Form_Prueba.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Prueba.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Form_RespaldoInformacion.Designer.vb">
       <DependentUpon>Form_RespaldoInformacion.vb</DependentUpon>
     </Compile>
@@ -257,6 +263,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form_OrdenCargaDescarga.resx">
       <DependentUpon>Form_OrdenCargaDescarga.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Prueba.resx">
+      <DependentUpon>Form_Prueba.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_RespaldoInformacion.resx">
       <DependentUpon>Form_RespaldoInformacion.vb</DependentUpon>
